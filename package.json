@@ -1,0 +1,19 @@
+{
+  "name": "ssm-broker",
+  "version": "1.0.0",
+  "description": "broker fore DAT602 Everyware (Simon, Sam, Mike)",
+  "main": "broker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomissivraj/ssm-broker.git"
+  },
+  "author": "Simon Jarvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomissivraj/ssm-broker/issues"
+  },
+  "homepage": "https://github.com/nomissivraj/ssm-broker#readme"
+}
