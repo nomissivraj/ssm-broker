@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nomissivraj/ssm-broker#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mosca": "^2.8.3"
   }
 }
